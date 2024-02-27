@@ -23,4 +23,4 @@ Welcome to Quizyy, a fun and interactive quiz app built using Android Studio.
 We welcome feedback and contributions to enhance Quizyy. Feel free to open an issue or submit a pull request.
 
 ## License:
-This project is licensed under the [MIT License](link to license).
+This project is licensed under the MIT License.
